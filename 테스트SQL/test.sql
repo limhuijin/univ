@@ -1,0 +1,1 @@
+INSERT INTO 회원 VALUES ( );
