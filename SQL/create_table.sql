@@ -3,9 +3,9 @@ CREATE TABLE 회원 (
     회원아이디 VARCHAR2(20) NOT NULL,
     비밀번호 VARCHAR2(20) NOT NULL,
     성명 VARCHAR2(20) NOT NULL,
-    신용카드 NUMBER(10) NOT NULL,
+    신용카드 NUMBER NOT NULL,
     이메일주소 VARCHAR2(30) NOT NULL,
-    휴대전화번호 NUMBER(11) NOT NULL,
+    휴대전화번호 NUMBER NOT NULL,
     PRIMARY KEY (회원아이디)
 );
 
