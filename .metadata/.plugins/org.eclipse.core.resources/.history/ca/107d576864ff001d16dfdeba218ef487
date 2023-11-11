@@ -1,0 +1,100 @@
+/*class Point{
+	private int x, y;
+	public void set(int x, int y) {
+		this.x = x;
+		this.y = y;
+	}
+	
+	public void showPoint() {
+		System.out.println("(" + x + ", " + y + ")");
+	}
+}
+
+class ColorPoint extends Point{
+	private String color;
+	public void setColor(String color) {
+		this.color = color;
+	}
+	
+	public void showColorPoint() {
+		System.out.print(color);
+		showPoint();
+	}
+}
+
+public class Ex_20230531 {
+	public static void main(String[] args) {
+		Point p = new Point();
+		p.set(1, 2);
+		p.showPoint();
+		
+		ColorPoint cp = new ColorPoint();
+		cp.set(3, 4);
+		cp.setColor("red");
+		cp.showColorPoint();
+	}
+}*/
+
+class A{
+	private int a, b, c, d;
+	public void set(int a, int b, int c, int d) {
+		this.a = a;
+		this.b = b;
+		this.c = c;
+		this.d = d;
+	}
+	
+	public void PrintfAValue(int i) {
+		System.out.print((i+1) + "\t" + a + "\t" + b + "\t" + c + "\t" + d + "\t");
+	}
+	
+	public void PrintASum() {
+		System.out.println((a+b+c+d) + "\t" + ((a+b+c+d) / 4));
+	}
+}
+
+class B extends A{
+	int x, y;
+	public void set(int x, int y) {
+		this.x = x;
+		this.y = y;
+	}
+	
+	public void PrintfB() {
+		System.out.print(x + "\t" + y + "\t");
+	}
+}
+
+public class Ex_20230531 {
+	public static void main(String[] args) {
+		A a[] = new A[3];
+		B b[] = new B[3];
+		
+		for(int i = 0; i < 3; i++)
+		{
+			a[i] = new A();
+			b[i] = new B();
+			
+			a[i].set((i+1)*1, (i+1)*2, (i+1)*3, (i+1)*4);
+			b[i].set((i+1)*5, (i+1)*6);
+		}
+		
+		System.out.println("순서\ta\tb\tc\td\t합\t평균");
+		
+		for(int i = 0; i < 3; i++)
+		{
+			a[i].PrintfAValue(i);
+			a[i].PrintASum();
+		}
+		
+		System.out.println("\n\n순서\ta\tb\tx\ty\t합\t평균");
+		
+		for(int i = 0; i < 3; i++)
+		{
+			a[i].PrintfAValue(i);
+			b[i].PrintfB();
+			a[i].PrintASum();
+		}
+		
+	}
+}

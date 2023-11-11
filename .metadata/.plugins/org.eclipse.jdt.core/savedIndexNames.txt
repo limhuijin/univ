@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-1\java\Hello\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+355705260.index
+4219279280.index
+3008928750.index
