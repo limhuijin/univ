@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileSum\WhileSum\bin\Debug\net6.0\WhileSum.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileSum\WhileSum\bin\Debug\net6.0\WhileSum.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileSum\WhileSum\bin\Debug\net6.0\WhileSum.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileSum\WhileSum\bin\Debug\net6.0\WhileSum.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileSum\WhileSum\bin\Debug\net6.0\WhileSum.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileSum\WhileSum\obj\Debug\net6.0\WhileSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileSum\WhileSum\obj\Debug\net6.0\WhileSum.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileSum\WhileSum\obj\Debug\net6.0\WhileSum.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileSum\WhileSum\obj\Debug\net6.0\WhileSum.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileSum\WhileSum\obj\Debug\net6.0\WhileSum.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileSum\WhileSum\obj\Debug\net6.0\refint\WhileSum.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileSum\WhileSum\obj\Debug\net6.0\WhileSum.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileSum\WhileSum\obj\Debug\net6.0\WhileSum.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileSum\WhileSum\obj\Debug\net6.0\ref\WhileSum.dll

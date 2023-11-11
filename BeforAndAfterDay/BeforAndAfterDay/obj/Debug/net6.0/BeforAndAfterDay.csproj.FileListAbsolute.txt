@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\BeforAndAfterDay\BeforAndAfterDay\bin\Debug\net6.0\BeforAndAfterDay.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\BeforAndAfterDay\BeforAndAfterDay\bin\Debug\net6.0\BeforAndAfterDay.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\BeforAndAfterDay\BeforAndAfterDay\bin\Debug\net6.0\BeforAndAfterDay.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\BeforAndAfterDay\BeforAndAfterDay\bin\Debug\net6.0\BeforAndAfterDay.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\BeforAndAfterDay\BeforAndAfterDay\bin\Debug\net6.0\BeforAndAfterDay.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\BeforAndAfterDay\BeforAndAfterDay\obj\Debug\net6.0\BeforAndAfterDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\BeforAndAfterDay\BeforAndAfterDay\obj\Debug\net6.0\BeforAndAfterDay.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\BeforAndAfterDay\BeforAndAfterDay\obj\Debug\net6.0\BeforAndAfterDay.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\BeforAndAfterDay\BeforAndAfterDay\obj\Debug\net6.0\BeforAndAfterDay.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\BeforAndAfterDay\BeforAndAfterDay\obj\Debug\net6.0\BeforAndAfterDay.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\BeforAndAfterDay\BeforAndAfterDay\obj\Debug\net6.0\refint\BeforAndAfterDay.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\BeforAndAfterDay\BeforAndAfterDay\obj\Debug\net6.0\BeforAndAfterDay.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\BeforAndAfterDay\BeforAndAfterDay\obj\Debug\net6.0\BeforAndAfterDay.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\BeforAndAfterDay\BeforAndAfterDay\obj\Debug\net6.0\ref\BeforAndAfterDay.dll

@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\GugudanSample\GugudanSample\bin\Debug\net6.0\GugudanSample.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\GugudanSample\GugudanSample\bin\Debug\net6.0\GugudanSample.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\GugudanSample\GugudanSample\bin\Debug\net6.0\GugudanSample.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\GugudanSample\GugudanSample\bin\Debug\net6.0\GugudanSample.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\GugudanSample\GugudanSample\bin\Debug\net6.0\GugudanSample.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\GugudanSample\GugudanSample\obj\Debug\net6.0\GugudanSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\GugudanSample\GugudanSample\obj\Debug\net6.0\GugudanSample.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\GugudanSample\GugudanSample\obj\Debug\net6.0\GugudanSample.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\GugudanSample\GugudanSample\obj\Debug\net6.0\GugudanSample.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\GugudanSample\GugudanSample\obj\Debug\net6.0\GugudanSample.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\GugudanSample\GugudanSample\obj\Debug\net6.0\refint\GugudanSample.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\GugudanSample\GugudanSample\obj\Debug\net6.0\GugudanSample.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\GugudanSample\GugudanSample\obj\Debug\net6.0\GugudanSample.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\GugudanSample\GugudanSample\obj\Debug\net6.0\ref\GugudanSample.dll

@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ContinueTest\ContinueTest\bin\Debug\net6.0\ContinueTest.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ContinueTest\ContinueTest\bin\Debug\net6.0\ContinueTest.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ContinueTest\ContinueTest\bin\Debug\net6.0\ContinueTest.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ContinueTest\ContinueTest\bin\Debug\net6.0\ContinueTest.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ContinueTest\ContinueTest\bin\Debug\net6.0\ContinueTest.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ContinueTest\ContinueTest\obj\Debug\net6.0\ContinueTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ContinueTest\ContinueTest\obj\Debug\net6.0\ContinueTest.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ContinueTest\ContinueTest\obj\Debug\net6.0\ContinueTest.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ContinueTest\ContinueTest\obj\Debug\net6.0\ContinueTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ContinueTest\ContinueTest\obj\Debug\net6.0\ContinueTest.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ContinueTest\ContinueTest\obj\Debug\net6.0\refint\ContinueTest.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ContinueTest\ContinueTest\obj\Debug\net6.0\ContinueTest.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ContinueTest\ContinueTest\obj\Debug\net6.0\ContinueTest.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ContinueTest\ContinueTest\obj\Debug\net6.0\ref\ContinueTest.dll

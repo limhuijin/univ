@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SetterGetter\SetterGetter\bin\Debug\net6.0\SetterGetter.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SetterGetter\SetterGetter\bin\Debug\net6.0\SetterGetter.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SetterGetter\SetterGetter\bin\Debug\net6.0\SetterGetter.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SetterGetter\SetterGetter\bin\Debug\net6.0\SetterGetter.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SetterGetter\SetterGetter\bin\Debug\net6.0\SetterGetter.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SetterGetter\SetterGetter\obj\Debug\net6.0\SetterGetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SetterGetter\SetterGetter\obj\Debug\net6.0\SetterGetter.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SetterGetter\SetterGetter\obj\Debug\net6.0\SetterGetter.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SetterGetter\SetterGetter\obj\Debug\net6.0\SetterGetter.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SetterGetter\SetterGetter\obj\Debug\net6.0\SetterGetter.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SetterGetter\SetterGetter\obj\Debug\net6.0\refint\SetterGetter.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SetterGetter\SetterGetter\obj\Debug\net6.0\SetterGetter.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SetterGetter\SetterGetter\obj\Debug\net6.0\SetterGetter.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SetterGetter\SetterGetter\obj\Debug\net6.0\ref\SetterGetter.dll

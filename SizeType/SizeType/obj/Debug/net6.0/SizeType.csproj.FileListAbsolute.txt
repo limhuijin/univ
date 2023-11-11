@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SizeType\SizeType\bin\Debug\net6.0\SizeType.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SizeType\SizeType\bin\Debug\net6.0\SizeType.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SizeType\SizeType\bin\Debug\net6.0\SizeType.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SizeType\SizeType\bin\Debug\net6.0\SizeType.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SizeType\SizeType\bin\Debug\net6.0\SizeType.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SizeType\SizeType\obj\Debug\net6.0\SizeType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SizeType\SizeType\obj\Debug\net6.0\SizeType.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SizeType\SizeType\obj\Debug\net6.0\SizeType.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SizeType\SizeType\obj\Debug\net6.0\SizeType.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SizeType\SizeType\obj\Debug\net6.0\SizeType.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SizeType\SizeType\obj\Debug\net6.0\refint\SizeType.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SizeType\SizeType\obj\Debug\net6.0\SizeType.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SizeType\SizeType\obj\Debug\net6.0\SizeType.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SizeType\SizeType\obj\Debug\net6.0\ref\SizeType.dll

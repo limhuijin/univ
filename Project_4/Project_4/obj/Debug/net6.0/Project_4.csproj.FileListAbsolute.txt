@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Project_4\Project_4\obj\Debug\net6.0\Project_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Project_4\Project_4\obj\Debug\net6.0\Project_4.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Project_4\Project_4\obj\Debug\net6.0\Project_4.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Project_4\Project_4\obj\Debug\net6.0\Project_4.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Project_4\Project_4\bin\Debug\net6.0\Project_4.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Project_4\Project_4\bin\Debug\net6.0\Project_4.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Project_4\Project_4\bin\Debug\net6.0\Project_4.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Project_4\Project_4\bin\Debug\net6.0\Project_4.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Project_4\Project_4\bin\Debug\net6.0\Project_4.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Project_4\Project_4\obj\Debug\net6.0\Project_4.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Project_4\Project_4\obj\Debug\net6.0\refint\Project_4.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Project_4\Project_4\obj\Debug\net6.0\Project_4.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Project_4\Project_4\obj\Debug\net6.0\Project_4.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Project_4\Project_4\obj\Debug\net6.0\ref\Project_4.dll

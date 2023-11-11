@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileBreak\WhileBreak\bin\Debug\net6.0\WhileBreak.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileBreak\WhileBreak\bin\Debug\net6.0\WhileBreak.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileBreak\WhileBreak\bin\Debug\net6.0\WhileBreak.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileBreak\WhileBreak\bin\Debug\net6.0\WhileBreak.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileBreak\WhileBreak\bin\Debug\net6.0\WhileBreak.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileBreak\WhileBreak\obj\Debug\net6.0\WhileBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileBreak\WhileBreak\obj\Debug\net6.0\WhileBreak.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileBreak\WhileBreak\obj\Debug\net6.0\WhileBreak.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileBreak\WhileBreak\obj\Debug\net6.0\WhileBreak.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileBreak\WhileBreak\obj\Debug\net6.0\WhileBreak.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileBreak\WhileBreak\obj\Debug\net6.0\refint\WhileBreak.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileBreak\WhileBreak\obj\Debug\net6.0\WhileBreak.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileBreak\WhileBreak\obj\Debug\net6.0\WhileBreak.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\WhileBreak\WhileBreak\obj\Debug\net6.0\ref\WhileBreak.dll

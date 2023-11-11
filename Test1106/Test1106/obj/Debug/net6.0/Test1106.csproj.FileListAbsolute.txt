@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1106\Test1106\bin\Debug\net6.0\Test1106.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1106\Test1106\bin\Debug\net6.0\Test1106.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1106\Test1106\bin\Debug\net6.0\Test1106.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1106\Test1106\bin\Debug\net6.0\Test1106.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1106\Test1106\bin\Debug\net6.0\Test1106.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1106\Test1106\obj\Debug\net6.0\Test1106.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1106\Test1106\obj\Debug\net6.0\Test1106.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1106\Test1106\obj\Debug\net6.0\Test1106.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1106\Test1106\obj\Debug\net6.0\Test1106.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1106\Test1106\obj\Debug\net6.0\Test1106.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1106\Test1106\obj\Debug\net6.0\refint\Test1106.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1106\Test1106\obj\Debug\net6.0\Test1106.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1106\Test1106\obj\Debug\net6.0\Test1106.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1106\Test1106\obj\Debug\net6.0\ref\Test1106.dll

@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\IfElseCondition\IfElseCondition\bin\Debug\net6.0\IfElseCondition.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\IfElseCondition\IfElseCondition\bin\Debug\net6.0\IfElseCondition.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\IfElseCondition\IfElseCondition\bin\Debug\net6.0\IfElseCondition.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\IfElseCondition\IfElseCondition\bin\Debug\net6.0\IfElseCondition.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\IfElseCondition\IfElseCondition\bin\Debug\net6.0\IfElseCondition.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\IfElseCondition\IfElseCondition\obj\Debug\net6.0\IfElseCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\IfElseCondition\IfElseCondition\obj\Debug\net6.0\IfElseCondition.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\IfElseCondition\IfElseCondition\obj\Debug\net6.0\IfElseCondition.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\IfElseCondition\IfElseCondition\obj\Debug\net6.0\IfElseCondition.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\IfElseCondition\IfElseCondition\obj\Debug\net6.0\IfElseCondition.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\IfElseCondition\IfElseCondition\obj\Debug\net6.0\refint\IfElseCondition.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\IfElseCondition\IfElseCondition\obj\Debug\net6.0\IfElseCondition.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\IfElseCondition\IfElseCondition\obj\Debug\net6.0\IfElseCondition.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\IfElseCondition\IfElseCondition\obj\Debug\net6.0\ref\IfElseCondition.dll

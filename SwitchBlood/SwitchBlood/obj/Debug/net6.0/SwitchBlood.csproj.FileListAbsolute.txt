@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SwitchBlood\SwitchBlood\bin\Debug\net6.0\SwitchBlood.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SwitchBlood\SwitchBlood\bin\Debug\net6.0\SwitchBlood.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SwitchBlood\SwitchBlood\bin\Debug\net6.0\SwitchBlood.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SwitchBlood\SwitchBlood\bin\Debug\net6.0\SwitchBlood.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SwitchBlood\SwitchBlood\bin\Debug\net6.0\SwitchBlood.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SwitchBlood\SwitchBlood\obj\Debug\net6.0\SwitchBlood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SwitchBlood\SwitchBlood\obj\Debug\net6.0\SwitchBlood.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SwitchBlood\SwitchBlood\obj\Debug\net6.0\SwitchBlood.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SwitchBlood\SwitchBlood\obj\Debug\net6.0\SwitchBlood.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SwitchBlood\SwitchBlood\obj\Debug\net6.0\SwitchBlood.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SwitchBlood\SwitchBlood\obj\Debug\net6.0\refint\SwitchBlood.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SwitchBlood\SwitchBlood\obj\Debug\net6.0\SwitchBlood.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SwitchBlood\SwitchBlood\obj\Debug\net6.0\SwitchBlood.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\SwitchBlood\SwitchBlood\obj\Debug\net6.0\ref\SwitchBlood.dll

@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PrimeOutput\PrimeOutput\obj\Debug\net6.0\PrimeOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PrimeOutput\PrimeOutput\obj\Debug\net6.0\PrimeOutput.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PrimeOutput\PrimeOutput\obj\Debug\net6.0\PrimeOutput.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PrimeOutput\PrimeOutput\obj\Debug\net6.0\PrimeOutput.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PrimeOutput\PrimeOutput\bin\Debug\net6.0\PrimeOutput.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PrimeOutput\PrimeOutput\bin\Debug\net6.0\PrimeOutput.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PrimeOutput\PrimeOutput\bin\Debug\net6.0\PrimeOutput.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PrimeOutput\PrimeOutput\bin\Debug\net6.0\PrimeOutput.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PrimeOutput\PrimeOutput\bin\Debug\net6.0\PrimeOutput.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PrimeOutput\PrimeOutput\obj\Debug\net6.0\PrimeOutput.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PrimeOutput\PrimeOutput\obj\Debug\net6.0\refint\PrimeOutput.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PrimeOutput\PrimeOutput\obj\Debug\net6.0\PrimeOutput.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PrimeOutput\PrimeOutput\obj\Debug\net6.0\PrimeOutput.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PrimeOutput\PrimeOutput\obj\Debug\net6.0\ref\PrimeOutput.dll

@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ForStar\ForStar\bin\Debug\net6.0\ForStar.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ForStar\ForStar\bin\Debug\net6.0\ForStar.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ForStar\ForStar\bin\Debug\net6.0\ForStar.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ForStar\ForStar\bin\Debug\net6.0\ForStar.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ForStar\ForStar\bin\Debug\net6.0\ForStar.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ForStar\ForStar\obj\Debug\net6.0\ForStar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ForStar\ForStar\obj\Debug\net6.0\ForStar.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ForStar\ForStar\obj\Debug\net6.0\ForStar.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ForStar\ForStar\obj\Debug\net6.0\ForStar.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ForStar\ForStar\obj\Debug\net6.0\ForStar.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ForStar\ForStar\obj\Debug\net6.0\refint\ForStar.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ForStar\ForStar\obj\Debug\net6.0\ForStar.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ForStar\ForStar\obj\Debug\net6.0\ForStar.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ForStar\ForStar\obj\Debug\net6.0\ref\ForStar.dll
