@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <title>Circle_test</title>
+    <style>
+        #Container{
+            width: 300px; height: 300px;
+            border: 3px solid black;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .circle{
+            width: 50px; height: 50px;
+            position: absolute;
+            border-radius: 50% 50%;
+        }
+
+        #red{
+            background-color: red;
+            left: 50%; top:50%;
+        }
+
+        #blue{
+            background-color: blue;
+            right: 20px; top:20px;
+        }
+
+        #green{
+            background-color: green;
+            right: 20px; bottom:20px;
+        }
+
+        #yellow{
+            background-color: yellow;
+            left: 20px; bottom:20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>제목</h1>
+    <div id="Container">
+        <div id="red" class="circle"></div>
+        <div id="blue" class="circle"></div>
+        <div id="green" class="circle"></div>
+        <div id="yellow" class="circle"></div>
+    </div>
+</body>
+</html>
