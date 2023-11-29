@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script>
+        $(document).ready(function(){
+            $('.page').hide();
+            $('button').on('mouseenter', function(){
+                    $('.page').fadeToggle('slow');
+            }).on('mouseleave', function(){
+                    $('.page').fadeToggle('slow');
+            });
+        });
+    </script>
+
+    <script>
+        $(document).ready(function(){
+            $('#box').css({
+                width: 100,
+                height: 100,
+                background: 'red',
+                position: 'relative',
+                left:10,
+                top:10
+            }).animate({
+                width:300,
+                opacity:0.5,
+            }, 500).animate({
+                opacity:1,
+                left:100,
+                top:200
+            }, 500);
+        });
+    </script>
+</head>
+<body>
+    <button>Toggle Show</button>
+    <div class="page">
+        <h1>제목</h1>
+        <p>내용입니다. 가나다라마바사</p>
+    </div>
+    <div id="box"></div>
+</body>
+</html>

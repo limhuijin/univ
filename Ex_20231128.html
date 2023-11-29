@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>jQuery</title>
+    <style>
+        #box{
+            width: 100px; height: 100px;
+            background-color: red;
+            text-align: center;
+            line-height: 100px;
+        }
+        
+        #box.hover{
+            background-color: blue;
+            border-radius: 50px;
+            color: white;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script>
+        $(document).ready(function(){
+            $('#box').hover(function(){
+                $('#box').addClass('hover');
+            }, function (){
+                $('#box').removeClass('hover');
+            });
+        });
+
+        $(document).ready(function(){
+            $('h1').hover(function(){
+                $(this).css({
+                    background: 'red',
+                    color: 'white'
+                });
+            }, function (){
+                $(this).css({
+                    background: '',
+                    color: ''
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    <div id = 'box'>안녕하세요</div>
+    <h1>Click</h1>
+</body>
+</html>
