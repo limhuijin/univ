@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script>
+        $(document).ready(function(){
+            let appendDocument = function(){
+            for(let i = 0; i < 20; i++)
+            {
+                $('<h1>Create Document Object ' + i + '</h1>').css({
+                    backgroundColor:'black',
+                    color:'red'
+                }).appendTo('body');
+            }
+        };
+
+            //문서 초기화
+            appendDocument();
+
+            $(window).scroll(function(){
+                //변수 선언
+                let scrollHeight = $(window).scrollTop() + $(window).height();
+                let documentHeight = $(document).height();
+
+                if(scrollHeight == documentHeight){
+                    appendDocument();
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+</body>
+</html>
