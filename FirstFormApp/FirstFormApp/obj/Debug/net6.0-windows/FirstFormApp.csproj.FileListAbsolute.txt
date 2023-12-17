@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FirstFormApp\FirstFormApp\bin\Debug\net6.0-windows\FirstFormApp.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FirstFormApp\FirstFormApp\bin\Debug\net6.0-windows\FirstFormApp.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FirstFormApp\FirstFormApp\bin\Debug\net6.0-windows\FirstFormApp.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FirstFormApp\FirstFormApp\bin\Debug\net6.0-windows\FirstFormApp.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FirstFormApp\FirstFormApp\bin\Debug\net6.0-windows\FirstFormApp.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FirstFormApp\FirstFormApp\obj\Debug\net6.0-windows\FirstFormApp.Form1.resources
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FirstFormApp\FirstFormApp\obj\Debug\net6.0-windows\FirstFormApp.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FirstFormApp\FirstFormApp\obj\Debug\net6.0-windows\FirstFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FirstFormApp\FirstFormApp\obj\Debug\net6.0-windows\FirstFormApp.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FirstFormApp\FirstFormApp\obj\Debug\net6.0-windows\FirstFormApp.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FirstFormApp\FirstFormApp\obj\Debug\net6.0-windows\FirstFormApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FirstFormApp\FirstFormApp\obj\Debug\net6.0-windows\FirstFormApp.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FirstFormApp\FirstFormApp\obj\Debug\net6.0-windows\refint\FirstFormApp.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FirstFormApp\FirstFormApp\obj\Debug\net6.0-windows\FirstFormApp.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FirstFormApp\FirstFormApp\obj\Debug\net6.0-windows\FirstFormApp.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FirstFormApp\FirstFormApp\obj\Debug\net6.0-windows\ref\FirstFormApp.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FirstFormApp\FirstFormApp\obj\Debug\net6.0-windows\FirstFormApp.Form2.resources

@@ -1,0 +1,34 @@
+﻿<Window x:Class="C_231211_ColorBoard.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:C_231211_ColorBoard"
+        mc:Ignorable="d"
+       Title="MainWindow" Height="330" Width="320">
+    <StackPanel Margin="10">
+        <TextBox Margin="5" Height="150" Name="textBox" Background="#F5F5DC"/>
+        <Grid Height="100">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Row="0" Grid.Column="0" FontSize="16" Margin="5" Click="Button_Click">빨강</Button>
+            <Button Grid.Row="0" Grid.Column="1" FontSize="16" Margin="5" Click="Button_Click_1">노랑</Button>
+            <Button Grid.Row="0" Grid.Column="2" FontSize="16" Margin="5" Click="Button_Click_2">파랑</Button>
+            <Button Grid.Row="0" Grid.Column="3" FontSize="16" Margin="5" Click="Button_Click_3">연두</Button>
+
+            <Button Grid.Row="1" Grid.Column="0" FontSize="16" Margin="5" Click="Button_Click_4">주황</Button>
+            <Button Grid.Row="1" Grid.Column="1" FontSize="16" Margin="5" Click="Button_Click_5">보라</Button>
+            <Button Grid.Row="1" Grid.Column="2" FontSize="16" Margin="5" Click="Button_Click_6">핑크</Button>
+            <Button Grid.Row="1" Grid.Column="3" FontSize="16" Margin="5" Click="Button_Click_7">검정</Button>
+        </Grid>
+
+    </StackPanel>
+</Window>

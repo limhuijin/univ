@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ComboBoxEvent\ComboBoxEvent\bin\Debug\net6.0-windows\ComboBoxEvent.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ComboBoxEvent\ComboBoxEvent\bin\Debug\net6.0-windows\ComboBoxEvent.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ComboBoxEvent\ComboBoxEvent\bin\Debug\net6.0-windows\ComboBoxEvent.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ComboBoxEvent\ComboBoxEvent\bin\Debug\net6.0-windows\ComboBoxEvent.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ComboBoxEvent\ComboBoxEvent\bin\Debug\net6.0-windows\ComboBoxEvent.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ComboBoxEvent\ComboBoxEvent\obj\Debug\net6.0-windows\ComboBoxEvent.Form1.resources
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ComboBoxEvent\ComboBoxEvent\obj\Debug\net6.0-windows\ComboBoxEvent.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ComboBoxEvent\ComboBoxEvent\obj\Debug\net6.0-windows\ComboBoxEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ComboBoxEvent\ComboBoxEvent\obj\Debug\net6.0-windows\ComboBoxEvent.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ComboBoxEvent\ComboBoxEvent\obj\Debug\net6.0-windows\ComboBoxEvent.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ComboBoxEvent\ComboBoxEvent\obj\Debug\net6.0-windows\ComboBoxEvent.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ComboBoxEvent\ComboBoxEvent\obj\Debug\net6.0-windows\ComboBoxEvent.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ComboBoxEvent\ComboBoxEvent\obj\Debug\net6.0-windows\refint\ComboBoxEvent.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ComboBoxEvent\ComboBoxEvent\obj\Debug\net6.0-windows\ComboBoxEvent.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ComboBoxEvent\ComboBoxEvent\obj\Debug\net6.0-windows\ComboBoxEvent.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ComboBoxEvent\ComboBoxEvent\obj\Debug\net6.0-windows\ref\ComboBoxEvent.dll

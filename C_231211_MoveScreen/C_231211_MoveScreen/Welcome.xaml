@@ -1,0 +1,28 @@
+﻿<Window x:Class="C_231211_MoveScreen.Welcome"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:C_231211_MoveScreen"
+        mc:Ignorable="d"
+        Title="Welcome" Height="400" Width="300" Background="LightSalmon">
+    <!--p548-->
+    <StackPanel Height="360" VerticalAlignment="Bottom" Background="Beige" Margin="10">
+        <TextBlock Text="Welcome" FontSize="25" HorizontalAlignment="Center" Margin="0, 35"/>
+
+        <Separator Background="Blue" Margin="20, 0"/>
+
+        <Grid Height="20"></Grid>
+        <TextBlock x:Name="text1" Text="오신 것을 환영합니다!" FontSize="17" Margin="20, 10" HorizontalAlignment="Center"/>
+
+        <Grid Height="80"/>  <!--빈 레이아웃으로 여백 생성-->
+
+        <StackPanel Orientation="Horizontal">
+            <Button x:Name="btnPrev" Content="Prev" FontSize="15" Height="30" Width="100"
+                    Margin="20, 15" VerticalAlignment="Center" Click="btnPrev_Click"></Button>
+
+            <Button x:Name="btnLoad" Content="Load" FontSize="15" Height="30" Width="100"
+                    Margin="20, 0" VerticalAlignment="Center" Click="btnLoad_Click"></Button>
+        </StackPanel>
+    </StackPanel>
+</Window>

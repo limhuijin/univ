@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C_231211_ColorBoard/1.0.0": {
+        "runtime": {
+          "C_231211_ColorBoard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C_231211_ColorBoard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

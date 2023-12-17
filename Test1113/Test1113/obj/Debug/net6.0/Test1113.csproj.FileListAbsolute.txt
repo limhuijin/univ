@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1113\Test1113\obj\Debug\net6.0\Test1113.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1113\Test1113\obj\Debug\net6.0\Test1113.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1113\Test1113\obj\Debug\net6.0\Test1113.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1113\Test1113\obj\Debug\net6.0\Test1113.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1113\Test1113\bin\Debug\net6.0\Test1113.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1113\Test1113\bin\Debug\net6.0\Test1113.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1113\Test1113\bin\Debug\net6.0\Test1113.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1113\Test1113\bin\Debug\net6.0\Test1113.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1113\Test1113\bin\Debug\net6.0\Test1113.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1113\Test1113\obj\Debug\net6.0\Test1113.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1113\Test1113\obj\Debug\net6.0\refint\Test1113.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1113\Test1113\obj\Debug\net6.0\Test1113.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1113\Test1113\obj\Debug\net6.0\Test1113.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1113\Test1113\obj\Debug\net6.0\ref\Test1113.dll

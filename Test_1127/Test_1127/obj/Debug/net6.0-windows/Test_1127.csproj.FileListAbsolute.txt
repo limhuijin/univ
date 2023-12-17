@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1127\Test_1127\bin\Debug\net6.0-windows\Test_1127.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1127\Test_1127\bin\Debug\net6.0-windows\Test_1127.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1127\Test_1127\bin\Debug\net6.0-windows\Test_1127.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1127\Test_1127\bin\Debug\net6.0-windows\Test_1127.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1127\Test_1127\bin\Debug\net6.0-windows\Test_1127.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1127\Test_1127\obj\Debug\net6.0-windows\Test_1127.Form1.resources
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1127\Test_1127\obj\Debug\net6.0-windows\Test_1127.Form2.resources
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1127\Test_1127\obj\Debug\net6.0-windows\Test_1127.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1127\Test_1127\obj\Debug\net6.0-windows\Test_1127.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1127\Test_1127\obj\Debug\net6.0-windows\Test_1127.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1127\Test_1127\obj\Debug\net6.0-windows\Test_1127.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1127\Test_1127\obj\Debug\net6.0-windows\Test_1127.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1127\Test_1127\obj\Debug\net6.0-windows\Test_1127.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1127\Test_1127\obj\Debug\net6.0-windows\refint\Test_1127.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1127\Test_1127\obj\Debug\net6.0-windows\Test_1127.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1127\Test_1127\obj\Debug\net6.0-windows\Test_1127.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1127\Test_1127\obj\Debug\net6.0-windows\ref\Test_1127.dll

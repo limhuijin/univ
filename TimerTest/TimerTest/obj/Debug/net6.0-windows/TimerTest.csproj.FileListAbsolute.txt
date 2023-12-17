@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\TimerTest\TimerTest\bin\Debug\net6.0-windows\TimerTest.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\TimerTest\TimerTest\bin\Debug\net6.0-windows\TimerTest.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\TimerTest\TimerTest\bin\Debug\net6.0-windows\TimerTest.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\TimerTest\TimerTest\bin\Debug\net6.0-windows\TimerTest.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\TimerTest\TimerTest\bin\Debug\net6.0-windows\TimerTest.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\TimerTest\TimerTest\obj\Debug\net6.0-windows\TimerTest.Form1.resources
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\TimerTest\TimerTest\obj\Debug\net6.0-windows\TimerTest.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\TimerTest\TimerTest\obj\Debug\net6.0-windows\TimerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\TimerTest\TimerTest\obj\Debug\net6.0-windows\TimerTest.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\TimerTest\TimerTest\obj\Debug\net6.0-windows\TimerTest.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\TimerTest\TimerTest\obj\Debug\net6.0-windows\TimerTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\TimerTest\TimerTest\obj\Debug\net6.0-windows\TimerTest.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\TimerTest\TimerTest\obj\Debug\net6.0-windows\refint\TimerTest.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\TimerTest\TimerTest\obj\Debug\net6.0-windows\TimerTest.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\TimerTest\TimerTest\obj\Debug\net6.0-windows\TimerTest.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\TimerTest\TimerTest\obj\Debug\net6.0-windows\ref\TimerTest.dll
