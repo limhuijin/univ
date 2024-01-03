@@ -8,18 +8,18 @@ import javax.swing.JLabel;
 import javax.swing.JTextField;
 
 class Cargame extends JFrame{
-	JLabel la1 = new JLabel("A");
-	JLabel la2 = new JLabel("B");
-	JLabel la3 = new JLabel("C");
-	JLabel la4 = new JLabel("");
-	JLabel la11 = new JLabel("A 위치 : ");
-	JLabel la21 = new JLabel("B 위치 : ");
-	JLabel la31 = new JLabel("C 위치 : ");
-	JButton bt = new JButton("시작");
+	JLabel laA = new JLabel("A");
+	JLabel laB = new JLabel("B");
+	JLabel laC = new JLabel("C");
+	JLabel laRank = new JLabel("");
+	JLabel laALocate = new JLabel("A 위치 : ");
+	JLabel laBLocate = new JLabel("B 위치 : ");
+	JLabel laCLocate = new JLabel("C 위치 : ");
+	JButton btStart = new JButton("시작");
 	
-	MyThreadA th1 = new MyThreadA(la1, "A", la11);
-	MyThreadA th2 = new MyThreadA(la2, "B", la21);
-	MyThreadA th3 = new MyThreadA(la3, "C", la31);
+	MyThreadA th1 = new MyThreadA(laA, "A", laALocate);
+	MyThreadA th2 = new MyThreadA(laB, "B", laBLocate);
+	MyThreadA th3 = new MyThreadA(laC, "C", laCLocate);
 	
 	MyActionListener lis = new MyActionListener();
 
@@ -32,87 +32,86 @@ class Cargame extends JFrame{
 		Container c = getContentPane();
 		c.setLayout(null);
 		
-		la1.setSize(100, 50);
-		la2.setSize(100, 50);
-		la3.setSize(100, 50);
-		la4.setSize(100, 50);
-		la11.setSize(100, 50);
-		la21.setSize(100, 50);
-		la31.setSize(100, 50);
-		bt.setSize(60, 40);
+		laA.setSize(100, 50);
+		laB.setSize(100, 50);
+		laC.setSize(100, 50);
+		laRank.setSize(100, 50);
+		laALocate.setSize(100, 50);
+		laBLocate.setSize(100, 50);
+		laCLocate.setSize(100, 50);
+		btStart.setSize(60, 40);
 		
-		la1.setLocation(100, 100);
-		la2.setLocation(100, 150);
-		la3.setLocation(100, 200);
-		la4.setLocation(500, 0);
-		la11.setLocation(200, 0);
-		la21.setLocation(300, 0);
-		la31.setLocation(400, 0);
-		bt.setLocation(10, 10);
+		laA.setLocation(100, 100);
+		laB.setLocation(100, 150);
+		laC.setLocation(100, 200);
+		laRank.setLocation(500, 0);
+		laALocate.setLocation(200, 0);
+		laBLocate.setLocation(300, 0);
+		laCLocate.setLocation(400, 0);
+		btStart.setLocation(10, 10);
 		
-		bt.addActionListener(lis);
+		btStart.addActionListener(lis);
 		
-		c.add(la1);
-		c.add(la2);
-		c.add(la3);
-		c.add(la11);
-		c.add(la21);
-		c.add(la31);
-		c.add(la4);
-		c.add(bt);
+		c.add(laA);
+		c.add(laB);
+		c.add(laC);
+		c.add(laALocate);
+		c.add(laBLocate);
+		c.add(laCLocate);
+		c.add(laRank);
+		c.add(btStart);
 	}
 	
 
-class MyThreadA extends Thread{
-	private JLabel label;
-	private int ix, iy;
-	private String name;
-	private JLabel la;
-	
-	
-	public MyThreadA(JLabel label, String name, JLabel la) {
-		this.label = label;
-		this.name = name;
-		this.la = la;
-	}
-	
-	public void run() {
-		ix = label.getX();
-		iy = label.getY();
+	class MyThreadA extends Thread{
+		private JLabel label;
+		private int ix, iy;
+		private String name;
+		private JLabel laLocate;
 		
-		for (int i = 0; i < 200; i++)
-		{
-			la.setText(name + " 위치 : " + Integer.toString(ix));
+		
+		public MyThreadA(JLabel label, String name, JLabel laLocate) {
+			this.label = label;
+			this.name = name;
+			this.laLocate = laLocate;
+		}
+		
+		public void run() {
+			ix = label.getX();
+			iy = label.getY();
 			
-			if (ix < 550)
+			for (int i = 0; i < 200; i++)
 			{
-				ix += 10 * Math.random();
-				label.setLocation(ix, iy);
+				laLocate.setText(name + " 위치 : " + Integer.toString(ix));
 				
-				try {
-					Thread.sleep(100);
-				} catch(InterruptedException e) {
-					return;
+				if (ix < 550)
+				{
+					ix += 10 * Math.random();
+					label.setLocation(ix, iy);
+					
+					try {
+						Thread.sleep(100);
+					} catch(InterruptedException e) {
+						return;
+					}
 				}
-			}
-			else
-			{
-				String str = la4.getText();
-				la4.setText(str + " " + name);
-				break;
+				else
+				{
+					String str = laRank.getText();
+					laRank.setText(str + " " + name);
+					break;
+				}
 			}
 		}
 	}
-}
 	
 	class MyActionListener implements ActionListener {
 		public void actionPerformed(ActionEvent e) {
-			bt = (JButton)e.getSource();
-			if(bt.getText().equals("시작")) {
+			btStart = (JButton)e.getSource();
+			if(btStart.getText().equals("시작")) {
 				th1.start();
 				th2.start();
 				th3.start();
-				bt.setText("정지");
 			}
 		}
 	}
