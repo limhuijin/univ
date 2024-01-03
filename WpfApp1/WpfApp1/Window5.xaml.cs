@@ -24,6 +24,9 @@ namespace WpfApp1
         int count = 0;
         public Window5()
         {
+            Random random = new Random();
+            int a = random.Next(0, 4);
+
             InitializeComponent();
             timer.Interval = TimeSpan.FromMilliseconds(100);
             timer.Tick += Timer1Call;
