@@ -20,5 +20,6 @@ from . import views
 
 urlpatterns = [
     path("", views.mainpage),
-    path('company/', views.company)
+    path('company/', views.company),
+    path('mysite/<int:content_id>/', views.content),
 ]
