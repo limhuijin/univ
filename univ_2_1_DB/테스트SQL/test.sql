@@ -1,0 +1,5 @@
+INSERT INTO 회원 VALUES ('gabriel227', '12345678', '임희진', '123456789123', 'gabriel227@naver.com', 01058556731);
+INSERT INTO 신용카드 VALUES ('gabriel227', '123456789123', '2023/06/11')
+INSERT INTO 마일리지 VALUES ('gabriel227', '1', '0', '0')
+INSERT INTO 비행기 VALUES ('123456', '2023/06/11 20:36:06', '2023/06/11')
+INSERT INTO 좌석 VALUES ('12345', '123456', '2', 'gabriel227')
