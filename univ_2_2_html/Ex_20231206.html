@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Light Box</title>
+    <!-- <link rel="stylesheet" href="C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\웹개발기초\자료\chapter12\시작\jquery.lightbox.css">
+    <script src="https://code.jquery.com/jquery-3.6.4.js"></script>
+    <script src="jquery.lightbox.js"></script>
+    <script>
+        $(document).ready(function(){
+            $('a.light').lightBox();
+        });
+    </script> 
+    -->
+
+    <style>
+        *{  margin: 0;
+            padding: 0;
+        }
+
+        .box{
+            background: black;
+            margin: 5px;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.6.4.js"></script>
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            for(let i = 0; i < 100; i++){
+                $('<div><div>').addClass('box').css({
+                    width: 100,
+                    height: Math.floor(Math.random() * 100) + 50,
+                }).appendTo('body');
+            }
+
+            $('body').masonry({
+                columWidth:110
+            });
+        });
+    </script>
+</head>
+<body>
+    <!-- <a class="light" href="C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\웹개발기초\자료\chapter12\시작\image1.jpg"><img src="C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\웹개발기초\자료\chapter12\시작\image1.jpg"></a>
+    <a class="light" href="C:\Users\USER\Desktop\임희진 - 자료\대학\수업    \2-2\웹개발기초\자료\chapter12\시작\image2.jpg"><img src="C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\웹개발기초\자료\chapter12\시작\image1.jpg"></a>
+    <a class="light" href="C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\웹개발기초\자료\chapter12\시작\image3.jpg"><img src="C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\웹개발기초\자료\chapter12\시작\image1.jpg"></a> -->
+</body>
+</html>

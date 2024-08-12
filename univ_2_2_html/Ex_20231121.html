@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <script>
+        // window.onload = function() {
+        //     let image = document.getElementById('image');
+
+        //     image.src = 'home.png';
+        //     image.width = 300;
+        //     image.height = 200;
+        // }
+
+        // window.onload = function() {
+        //     document.body.setAttribute('data-custom', 'value');
+
+        //     let dataCustom = document.body.getAttribute('data-custom');
+        //     alert(dataCustom);
+        // }
+
+        // window.onload = function () {
+        //     let clock = document.getElementById('clock');
+        //     setInterval(function() {
+        //         let now = new Date();
+        //         clock.innerHTML = now.toString();
+        //     }, 1000);
+        // };
+
+        // function buttonClick() {
+        //     alert('click');
+        // }
+
+        // document.getElementById('b').onclick = function() {
+        //     this.textContent = this.textContent + "*";
+        // }
+
+        window.onload = function() {
+            let button = document.getElementById('button');
+            button.onclick = function(){
+                return false;
+            }
+        }
+    </script>
+</head>
+<body>
+    <!-- <img id = "image"> -->
+    <!-- <h1 id="clock"></h1> -->
+    <!-- <button onclick="buttonClick()">버튼</button> -->
+    <!-- <button id="b">버튼 - </button> -->
+    
+    <a id="button" href="https://www.naver.com/">버튼</a>
+</body>
+</html>
