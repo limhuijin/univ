@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomSearch\RandomSearch\bin\Debug\net6.0\RandomSearch.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomSearch\RandomSearch\bin\Debug\net6.0\RandomSearch.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomSearch\RandomSearch\bin\Debug\net6.0\RandomSearch.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomSearch\RandomSearch\bin\Debug\net6.0\RandomSearch.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomSearch\RandomSearch\bin\Debug\net6.0\RandomSearch.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomSearch\RandomSearch\obj\Debug\net6.0\RandomSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomSearch\RandomSearch\obj\Debug\net6.0\RandomSearch.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomSearch\RandomSearch\obj\Debug\net6.0\RandomSearch.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomSearch\RandomSearch\obj\Debug\net6.0\RandomSearch.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomSearch\RandomSearch\obj\Debug\net6.0\RandomSearch.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomSearch\RandomSearch\obj\Debug\net6.0\refint\RandomSearch.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomSearch\RandomSearch\obj\Debug\net6.0\RandomSearch.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomSearch\RandomSearch\obj\Debug\net6.0\RandomSearch.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomSearch\RandomSearch\obj\Debug\net6.0\ref\RandomSearch.dll

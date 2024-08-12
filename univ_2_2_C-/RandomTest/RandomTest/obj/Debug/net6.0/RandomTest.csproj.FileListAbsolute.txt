@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomTest\RandomTest\bin\Debug\net6.0\RandomTest.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomTest\RandomTest\bin\Debug\net6.0\RandomTest.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomTest\RandomTest\bin\Debug\net6.0\RandomTest.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomTest\RandomTest\bin\Debug\net6.0\RandomTest.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomTest\RandomTest\bin\Debug\net6.0\RandomTest.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomTest\RandomTest\obj\Debug\net6.0\RandomTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomTest\RandomTest\obj\Debug\net6.0\RandomTest.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomTest\RandomTest\obj\Debug\net6.0\RandomTest.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomTest\RandomTest\obj\Debug\net6.0\RandomTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomTest\RandomTest\obj\Debug\net6.0\RandomTest.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomTest\RandomTest\obj\Debug\net6.0\refint\RandomTest.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomTest\RandomTest\obj\Debug\net6.0\RandomTest.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomTest\RandomTest\obj\Debug\net6.0\RandomTest.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RandomTest\RandomTest\obj\Debug\net6.0\ref\RandomTest.dll

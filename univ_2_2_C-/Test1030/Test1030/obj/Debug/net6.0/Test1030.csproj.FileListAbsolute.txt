@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1030\Test1030\bin\Debug\net6.0\Test1030.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1030\Test1030\bin\Debug\net6.0\Test1030.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1030\Test1030\bin\Debug\net6.0\Test1030.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1030\Test1030\bin\Debug\net6.0\Test1030.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1030\Test1030\bin\Debug\net6.0\Test1030.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1030\Test1030\obj\Debug\net6.0\Test1030.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1030\Test1030\obj\Debug\net6.0\Test1030.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1030\Test1030\obj\Debug\net6.0\Test1030.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1030\Test1030\obj\Debug\net6.0\Test1030.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1030\Test1030\obj\Debug\net6.0\Test1030.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1030\Test1030\obj\Debug\net6.0\refint\Test1030.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1030\Test1030\obj\Debug\net6.0\Test1030.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1030\Test1030\obj\Debug\net6.0\Test1030.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test1030\Test1030\obj\Debug\net6.0\ref\Test1030.dll

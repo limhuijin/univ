@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1023\Test_1023\bin\Debug\net6.0\Test_1023.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1023\Test_1023\bin\Debug\net6.0\Test_1023.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1023\Test_1023\bin\Debug\net6.0\Test_1023.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1023\Test_1023\bin\Debug\net6.0\Test_1023.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1023\Test_1023\bin\Debug\net6.0\Test_1023.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1023\Test_1023\obj\Debug\net6.0\Test_1023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1023\Test_1023\obj\Debug\net6.0\Test_1023.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1023\Test_1023\obj\Debug\net6.0\Test_1023.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1023\Test_1023\obj\Debug\net6.0\Test_1023.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1023\Test_1023\obj\Debug\net6.0\Test_1023.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1023\Test_1023\obj\Debug\net6.0\refint\Test_1023.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1023\Test_1023\obj\Debug\net6.0\Test_1023.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1023\Test_1023\obj\Debug\net6.0\Test_1023.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Test_1023\Test_1023\obj\Debug\net6.0\ref\Test_1023.dll

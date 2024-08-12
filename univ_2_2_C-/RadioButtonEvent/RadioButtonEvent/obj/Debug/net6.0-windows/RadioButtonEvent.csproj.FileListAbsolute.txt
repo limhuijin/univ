@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RadioButtonEvent\RadioButtonEvent\bin\Debug\net6.0-windows\RadioButtonEvent.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RadioButtonEvent\RadioButtonEvent\bin\Debug\net6.0-windows\RadioButtonEvent.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RadioButtonEvent\RadioButtonEvent\bin\Debug\net6.0-windows\RadioButtonEvent.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RadioButtonEvent\RadioButtonEvent\bin\Debug\net6.0-windows\RadioButtonEvent.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RadioButtonEvent\RadioButtonEvent\bin\Debug\net6.0-windows\RadioButtonEvent.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RadioButtonEvent\RadioButtonEvent\obj\Debug\net6.0-windows\RadioButtonEvent.Form1.resources
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RadioButtonEvent\RadioButtonEvent\obj\Debug\net6.0-windows\RadioButtonEvent.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RadioButtonEvent\RadioButtonEvent\obj\Debug\net6.0-windows\RadioButtonEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RadioButtonEvent\RadioButtonEvent\obj\Debug\net6.0-windows\RadioButtonEvent.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RadioButtonEvent\RadioButtonEvent\obj\Debug\net6.0-windows\RadioButtonEvent.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RadioButtonEvent\RadioButtonEvent\obj\Debug\net6.0-windows\RadioButtonEvent.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RadioButtonEvent\RadioButtonEvent\obj\Debug\net6.0-windows\RadioButtonEvent.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RadioButtonEvent\RadioButtonEvent\obj\Debug\net6.0-windows\refint\RadioButtonEvent.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RadioButtonEvent\RadioButtonEvent\obj\Debug\net6.0-windows\RadioButtonEvent.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RadioButtonEvent\RadioButtonEvent\obj\Debug\net6.0-windows\RadioButtonEvent.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\RadioButtonEvent\RadioButtonEvent\obj\Debug\net6.0-windows\ref\RadioButtonEvent.dll

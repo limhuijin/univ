@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PersonStruct\PersonStruct\bin\Debug\net6.0\PersonStruct.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PersonStruct\PersonStruct\bin\Debug\net6.0\PersonStruct.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PersonStruct\PersonStruct\bin\Debug\net6.0\PersonStruct.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PersonStruct\PersonStruct\bin\Debug\net6.0\PersonStruct.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PersonStruct\PersonStruct\bin\Debug\net6.0\PersonStruct.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PersonStruct\PersonStruct\obj\Debug\net6.0\PersonStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PersonStruct\PersonStruct\obj\Debug\net6.0\PersonStruct.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PersonStruct\PersonStruct\obj\Debug\net6.0\PersonStruct.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PersonStruct\PersonStruct\obj\Debug\net6.0\PersonStruct.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PersonStruct\PersonStruct\obj\Debug\net6.0\PersonStruct.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PersonStruct\PersonStruct\obj\Debug\net6.0\refint\PersonStruct.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PersonStruct\PersonStruct\obj\Debug\net6.0\PersonStruct.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PersonStruct\PersonStruct\obj\Debug\net6.0\PersonStruct.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\PersonStruct\PersonStruct\obj\Debug\net6.0\ref\PersonStruct.dll

@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Ex_20230918\Ex_20230918\bin\Debug\net6.0\Ex_20230918.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Ex_20230918\Ex_20230918\bin\Debug\net6.0\Ex_20230918.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Ex_20230918\Ex_20230918\bin\Debug\net6.0\Ex_20230918.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Ex_20230918\Ex_20230918\bin\Debug\net6.0\Ex_20230918.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Ex_20230918\Ex_20230918\bin\Debug\net6.0\Ex_20230918.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Ex_20230918\Ex_20230918\obj\Debug\net6.0\Ex_20230918.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Ex_20230918\Ex_20230918\obj\Debug\net6.0\Ex_20230918.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Ex_20230918\Ex_20230918\obj\Debug\net6.0\Ex_20230918.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Ex_20230918\Ex_20230918\obj\Debug\net6.0\Ex_20230918.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Ex_20230918\Ex_20230918\obj\Debug\net6.0\Ex_20230918.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Ex_20230918\Ex_20230918\obj\Debug\net6.0\refint\Ex_20230918.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Ex_20230918\Ex_20230918\obj\Debug\net6.0\Ex_20230918.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Ex_20230918\Ex_20230918\obj\Debug\net6.0\Ex_20230918.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\Ex_20230918\Ex_20230918\obj\Debug\net6.0\ref\Ex_20230918.dll

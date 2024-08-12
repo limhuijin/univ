@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArrayClass\ArrayClass\bin\Debug\net6.0\ArrayClass.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArrayClass\ArrayClass\bin\Debug\net6.0\ArrayClass.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArrayClass\ArrayClass\bin\Debug\net6.0\ArrayClass.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArrayClass\ArrayClass\bin\Debug\net6.0\ArrayClass.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArrayClass\ArrayClass\bin\Debug\net6.0\ArrayClass.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArrayClass\ArrayClass\obj\Debug\net6.0\ArrayClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArrayClass\ArrayClass\obj\Debug\net6.0\ArrayClass.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArrayClass\ArrayClass\obj\Debug\net6.0\ArrayClass.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArrayClass\ArrayClass\obj\Debug\net6.0\ArrayClass.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArrayClass\ArrayClass\obj\Debug\net6.0\ArrayClass.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArrayClass\ArrayClass\obj\Debug\net6.0\refint\ArrayClass.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArrayClass\ArrayClass\obj\Debug\net6.0\ArrayClass.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArrayClass\ArrayClass\obj\Debug\net6.0\ArrayClass.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArrayClass\ArrayClass\obj\Debug\net6.0\ref\ArrayClass.dll

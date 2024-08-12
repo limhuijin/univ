@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FlagGameTest\FlagGameTest\obj\Debug\net6.0-windows\FlagGameTest.Form1.resources
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FlagGameTest\FlagGameTest\obj\Debug\net6.0-windows\FlagGameTest.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FlagGameTest\FlagGameTest\obj\Debug\net6.0-windows\FlagGameTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FlagGameTest\FlagGameTest\obj\Debug\net6.0-windows\FlagGameTest.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FlagGameTest\FlagGameTest\obj\Debug\net6.0-windows\FlagGameTest.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FlagGameTest\FlagGameTest\obj\Debug\net6.0-windows\FlagGameTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FlagGameTest\FlagGameTest\bin\Debug\net6.0-windows\FlagGameTest.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FlagGameTest\FlagGameTest\bin\Debug\net6.0-windows\FlagGameTest.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FlagGameTest\FlagGameTest\bin\Debug\net6.0-windows\FlagGameTest.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FlagGameTest\FlagGameTest\bin\Debug\net6.0-windows\FlagGameTest.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FlagGameTest\FlagGameTest\bin\Debug\net6.0-windows\FlagGameTest.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FlagGameTest\FlagGameTest\obj\Debug\net6.0-windows\FlagGameTest.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FlagGameTest\FlagGameTest\obj\Debug\net6.0-windows\refint\FlagGameTest.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FlagGameTest\FlagGameTest\obj\Debug\net6.0-windows\FlagGameTest.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FlagGameTest\FlagGameTest\obj\Debug\net6.0-windows\FlagGameTest.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\FlagGameTest\FlagGameTest\obj\Debug\net6.0-windows\ref\FlagGameTest.dll

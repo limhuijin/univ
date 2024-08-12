@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ListElement\ListElement\bin\Debug\net6.0\ListElement.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ListElement\ListElement\bin\Debug\net6.0\ListElement.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ListElement\ListElement\bin\Debug\net6.0\ListElement.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ListElement\ListElement\bin\Debug\net6.0\ListElement.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ListElement\ListElement\bin\Debug\net6.0\ListElement.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ListElement\ListElement\obj\Debug\net6.0\ListElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ListElement\ListElement\obj\Debug\net6.0\ListElement.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ListElement\ListElement\obj\Debug\net6.0\ListElement.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ListElement\ListElement\obj\Debug\net6.0\ListElement.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ListElement\ListElement\obj\Debug\net6.0\ListElement.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ListElement\ListElement\obj\Debug\net6.0\refint\ListElement.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ListElement\ListElement\obj\Debug\net6.0\ListElement.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ListElement\ListElement\obj\Debug\net6.0\ListElement.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ListElement\ListElement\obj\Debug\net6.0\ref\ListElement.dll

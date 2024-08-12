@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\MessageBoxShow\MessageBoxShow\bin\Debug\net6.0-windows\MessageBoxShow.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\MessageBoxShow\MessageBoxShow\bin\Debug\net6.0-windows\MessageBoxShow.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\MessageBoxShow\MessageBoxShow\bin\Debug\net6.0-windows\MessageBoxShow.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\MessageBoxShow\MessageBoxShow\bin\Debug\net6.0-windows\MessageBoxShow.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\MessageBoxShow\MessageBoxShow\bin\Debug\net6.0-windows\MessageBoxShow.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\MessageBoxShow\MessageBoxShow\obj\Debug\net6.0-windows\MessageBoxShow.Form1.resources
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\MessageBoxShow\MessageBoxShow\obj\Debug\net6.0-windows\MessageBoxShow.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\MessageBoxShow\MessageBoxShow\obj\Debug\net6.0-windows\MessageBoxShow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\MessageBoxShow\MessageBoxShow\obj\Debug\net6.0-windows\MessageBoxShow.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\MessageBoxShow\MessageBoxShow\obj\Debug\net6.0-windows\MessageBoxShow.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\MessageBoxShow\MessageBoxShow\obj\Debug\net6.0-windows\MessageBoxShow.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\MessageBoxShow\MessageBoxShow\obj\Debug\net6.0-windows\MessageBoxShow.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\MessageBoxShow\MessageBoxShow\obj\Debug\net6.0-windows\refint\MessageBoxShow.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\MessageBoxShow\MessageBoxShow\obj\Debug\net6.0-windows\MessageBoxShow.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\MessageBoxShow\MessageBoxShow\obj\Debug\net6.0-windows\MessageBoxShow.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\MessageBoxShow\MessageBoxShow\obj\Debug\net6.0-windows\ref\MessageBoxShow.dll

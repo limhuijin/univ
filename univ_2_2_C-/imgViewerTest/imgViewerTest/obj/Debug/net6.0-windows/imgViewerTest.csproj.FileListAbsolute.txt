@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\imgViewerTest\imgViewerTest\bin\Debug\net6.0-windows\imgViewerTest.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\imgViewerTest\imgViewerTest\bin\Debug\net6.0-windows\imgViewerTest.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\imgViewerTest\imgViewerTest\bin\Debug\net6.0-windows\imgViewerTest.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\imgViewerTest\imgViewerTest\bin\Debug\net6.0-windows\imgViewerTest.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\imgViewerTest\imgViewerTest\bin\Debug\net6.0-windows\imgViewerTest.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\imgViewerTest\imgViewerTest\obj\Debug\net6.0-windows\imgViewerTest.Form1.resources
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\imgViewerTest\imgViewerTest\obj\Debug\net6.0-windows\imgViewerTest.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\imgViewerTest\imgViewerTest\obj\Debug\net6.0-windows\imgViewerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\imgViewerTest\imgViewerTest\obj\Debug\net6.0-windows\imgViewerTest.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\imgViewerTest\imgViewerTest\obj\Debug\net6.0-windows\imgViewerTest.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\imgViewerTest\imgViewerTest\obj\Debug\net6.0-windows\imgViewerTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\imgViewerTest\imgViewerTest\obj\Debug\net6.0-windows\imgViewerTest.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\imgViewerTest\imgViewerTest\obj\Debug\net6.0-windows\refint\imgViewerTest.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\imgViewerTest\imgViewerTest\obj\Debug\net6.0-windows\imgViewerTest.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\imgViewerTest\imgViewerTest\obj\Debug\net6.0-windows\imgViewerTest.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\imgViewerTest\imgViewerTest\obj\Debug\net6.0-windows\ref\imgViewerTest.dll

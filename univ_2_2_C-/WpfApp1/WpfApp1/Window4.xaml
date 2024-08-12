@@ -1,0 +1,81 @@
+﻿<Window x:Class="WpfApp1.Window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Window4" Height="450" Width="800">
+
+    <StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <ComboBox x:Name="comboYear" Width="150"/>
+            <Label Content="년" FontSize="20"/>
+            <ComboBox x:Name="comboMonth" Width="150"/>
+            <Label Content="월" FontSize="20"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="일" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button Content="월" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button Content="화" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button Content="수" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button Content="목" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button Content="금" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button Content="토" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button x:Name="button0" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button1" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button2" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button3" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button4" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button5" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button6" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button x:Name="button7" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button8" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button9" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button10" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button11" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button12" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button13" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button x:Name="button14" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button15" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button16" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button17" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button18" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button19" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button20" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button x:Name="button21" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button22" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button23" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button24" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button25" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button26" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button x:Name="button27" Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+            <Button Content="" Width="80" Height="50" Margin="5, 5, 5, 5"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

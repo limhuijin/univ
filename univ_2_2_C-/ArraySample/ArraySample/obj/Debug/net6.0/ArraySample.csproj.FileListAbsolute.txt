@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArraySample\ArraySample\bin\Debug\net6.0\ArraySample.exe
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArraySample\ArraySample\bin\Debug\net6.0\ArraySample.deps.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArraySample\ArraySample\bin\Debug\net6.0\ArraySample.runtimeconfig.json
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArraySample\ArraySample\bin\Debug\net6.0\ArraySample.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArraySample\ArraySample\bin\Debug\net6.0\ArraySample.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArraySample\ArraySample\obj\Debug\net6.0\ArraySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArraySample\ArraySample\obj\Debug\net6.0\ArraySample.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArraySample\ArraySample\obj\Debug\net6.0\ArraySample.AssemblyInfo.cs
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArraySample\ArraySample\obj\Debug\net6.0\ArraySample.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArraySample\ArraySample\obj\Debug\net6.0\ArraySample.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArraySample\ArraySample\obj\Debug\net6.0\refint\ArraySample.dll
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArraySample\ArraySample\obj\Debug\net6.0\ArraySample.pdb
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArraySample\ArraySample\obj\Debug\net6.0\ArraySample.genruntimeconfig.cache
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-2\c#\코드\ArraySample\ArraySample\obj\Debug\net6.0\ref\ArraySample.dll
