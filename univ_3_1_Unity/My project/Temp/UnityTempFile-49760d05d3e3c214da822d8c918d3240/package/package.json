@@ -1,0 +1,20 @@
+{
+  "name": "com.unity.template.3d",
+  "displayName": "3D",
+  "version": "6.0.1",
+  "type": "template",
+  "host": "hub",
+  "unity": "2020.3",
+  "description": "This is an empty 3D project that uses Unity's built-in renderer.",
+  "_upm": {
+    "changelog": "- Added PS5 to QualitySettings.asset.\n- Added GameCore platforms to QualitySettings.asset.\n- Defaulting color space to Linear"
+  },
+  "upmCi": {
+    "footprint": "65d176f2046ccdb7f16ae57f74eed8a4bb800e15"
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.template-3d.git",
+    "type": "git",
+    "revision": "49f0f00697be27b6e98a5339f421bfa090ed28c1"
+  }
+}

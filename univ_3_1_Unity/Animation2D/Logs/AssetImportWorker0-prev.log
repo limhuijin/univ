@@ -1,0 +1,345 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.48f1 (b805b124c6b7) revision 12060081'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'ko' Physical Memory: 6091 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.48f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/USER/Unity/Animation2D
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64335
+Successfully changed project path to: C:/Users/USER/Unity/Animation2D
+C:/Users/USER/Unity/Animation2D
+Using Asset Import Pipeline V2.
+Player connection [9572] Host "[IP] 192.168.107.230 [Port] 73 [Flags] 2 [Guid] 2216957195 [EditorId] 2216957195 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-I3QKKVL) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [9572] Host "[IP] 192.168.107.230 [Port] 73 [Flags] 2 [Guid] 2216957195 [EditorId] 2216957195 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-I3QKKVL) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 37.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.48f1 (b805b124c6b7)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.48f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/USER/Unity/Animation2D/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
+    Vendor:   
+    VRAM:     3045 MB
+    Driver:   27.20.22002.57
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.48f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.48f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.48f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56892
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.48f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004674 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 27.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.719 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1719ms)
+		BeginReloadAssembly (232ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1266ms)
+			LoadAssemblies (219ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (411ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (67ms)
+			SetupLoadedEditorAssemblies (424ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (28ms)
+				BeforeProcessingInitializeOnLoad (39ms)
+				ProcessInitializeOnLoadAttributes (258ms)
+				ProcessInitializeOnLoadMethodAttributes (81ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001296 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.474 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2475ms)
+		BeginReloadAssembly (428ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (17ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (1826ms)
+			LoadAssemblies (193ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (592ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (109ms)
+			SetupLoadedEditorAssemblies (661ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (353ms)
+				ProcessInitializeOnLoadAttributes (213ms)
+				ProcessInitializeOnLoadMethodAttributes (43ms)
+				AfterProcessingInitializeOnLoad (36ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 706 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.3 MB.
+System memory in use after: 55.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1147.
+Total: 6.461500 ms (FindLiveObjects: 0.203800 ms CreateObjectMapping: 0.052600 ms MarkObjects: 5.985000 ms  DeleteObjects: 0.217100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Samples/2D Animation/5.2.7/Samples
+  artifactKey: Guid(f482dec5bc2e7ec4eb6bd7c77c28d24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples using Guid(f482dec5bc2e7ec4eb6bd7c77c28d24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf4eb6e23e209912ed8bf051385527f2') in 0.026831 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 100.944967 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/1 Simple
+  artifactKey: Guid(b0fec17e40a4f054ca640cf23fa20f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/1 Simple using Guid(b0fec17e40a4f054ca640cf23fa20f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c514547e68383ffedd4334a10f7cc0c') in 0.036221 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.475885 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/1 Simple/Sprites
+  artifactKey: Guid(0b0fa4ac071974f819d81c073c675f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/1 Simple/Sprites using Guid(0b0fa4ac071974f819d81c073c675f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4d08d6a428385ee520c1c8c49fb4217') in 0.026525 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.048897 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/1 Simple/Sprites/Boris.png
+  artifactKey: Guid(5258496a2625b4729b9f47415dcf6055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/1 Simple/Sprites/Boris.png using Guid(5258496a2625b4729b9f47415dcf6055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8a3dd99d97ccf841be28585ad5b2ce5') in 0.424447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.416930 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/2 Single Skinned Sprite
+  artifactKey: Guid(7c0e1d86180b983449318adc643710f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/2 Single Skinned Sprite using Guid(7c0e1d86180b983449318adc643710f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f98881c6bfaa3dda26bc4dc22e35724d') in 0.035449 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.711417 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/2 Single Skinned Sprite/Sprites
+  artifactKey: Guid(7c3a847a7bf354adb8b6ea944aacd79b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/2 Single Skinned Sprite/Sprites using Guid(7c3a847a7bf354adb8b6ea944aacd79b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '185d80ae830044734b7ab2780a195132') in 0.009045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.068460 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/2 Single Skinned Sprite/Sprites/Plunkah.png
+  artifactKey: Guid(9d235826445ca40a6b891614a381d426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/2 Single Skinned Sprite/Sprites/Plunkah.png using Guid(9d235826445ca40a6b891614a381d426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01e1b538a7b1744a41ad3c205d890ba9') in 0.049267 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.750697 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/3 Multiple Skinned Sprites/Sprites
+  artifactKey: Guid(0ab0b9a0b5e50438795d09c56605365a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/3 Multiple Skinned Sprites/Sprites using Guid(0ab0b9a0b5e50438795d09c56605365a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc40811565c99a827cc46dceacee73a6') in 0.007433 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.057508 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/3 Multiple Skinned Sprites/Sprites/Rikr.png
+  artifactKey: Guid(036e5d1dec89b4a449390d4d1288067f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/3 Multiple Skinned Sprites/Sprites/Rikr.png using Guid(036e5d1dec89b4a449390d4d1288067f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26b22321bc7db9ed685cafe165b35bd6') in 0.135964 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.838274 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/4 Character/Sprites
+  artifactKey: Guid(847c2ab79859342e5860db3f6cf0e303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/4 Character/Sprites using Guid(847c2ab79859342e5860db3f6cf0e303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '741991b18f362c8625fa204397963259') in 0.007411 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.179579 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/4 Character/Animation/Animators
+  artifactKey: Guid(5259cdb15f5c646a78b883184f75a430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/4 Character/Animation/Animators using Guid(5259cdb15f5c646a78b883184f75a430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be4969823598d13688fc557c6cbdc2e5') in 0.022898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.749405 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Scripts
+  artifactKey: Guid(f89821e9789546440a093b1e933cfee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Scripts using Guid(f89821e9789546440a093b1e933cfee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a39823e2dbe40be87df16fa01d1403fe') in 0.021847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.126598 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Scripts/Runtime
+  artifactKey: Guid(8aad5cf35c32aa94f8103a94f3a3d078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Scripts/Runtime using Guid(8aad5cf35c32aa94f8103a94f3a3d078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7874c22bd6f344e19d4b34b00b47498c') in 0.022381 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.064028 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Scripts/Runtime/Unity.2D.Animation.Samples.Runtime.asmdef
+  artifactKey: Guid(d6d31008b62a0a04e96e897fe1381b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Scripts/Runtime/Unity.2D.Animation.Samples.Runtime.asmdef using Guid(d6d31008b62a0a04e96e897fe1381b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab546a493711fa95e15e81ccf9023b01') in 0.036112 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.781356 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Scripts/Editor
+  artifactKey: Guid(290d2a9589a61f44a8efad4e3e75155e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Scripts/Editor using Guid(290d2a9589a61f44a8efad4e3e75155e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f066b327f86acf5ef22129a9db0c605') in 0.021703 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.054072 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Scripts/Editor/Unity.2D.Animation.Samples.Editor.asmdef
+  artifactKey: Guid(da3c53b869fb6d54db6c4cc838632d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Scripts/Editor/Unity.2D.Animation.Samples.Editor.asmdef using Guid(da3c53b869fb6d54db6c4cc838632d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96a83bd766f838d73b9990142b60c752') in 0.020548 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.980325 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprites
+  artifactKey: Guid(501a55918b0995941ab8889d86766c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprites using Guid(501a55918b0995941ab8889d86766c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99350286befdcdce9242d09b5c077d3a') in 0.012700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.058210 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprites/Rikr Poison.png
+  artifactKey: Guid(cc7586140aa6bac4ab484e8dc1a41a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprites/Rikr Poison.png using Guid(cc7586140aa6bac4ab484e8dc1a41a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bc8a9414329d4f652eb876cded8c819') in 0.087121 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprites/Rikr.png
+  artifactKey: Guid(f147904358fc9c042beea56963e6b70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprites/Rikr.png using Guid(f147904358fc9c042beea56963e6b70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b6f8486b3fbefb1414254c333d73cc9') in 0.072032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000492 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprites/Rikr Rage.png
+  artifactKey: Guid(62aab9d0b7eea6d46a98bc6bfb5f255e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprites/Rikr Rage.png using Guid(62aab9d0b7eea6d46a98bc6bfb5f255e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd30ea41945c7a4f83ff01868b121513') in 0.085494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprites/Scavengers_SpriteSheet.png
+  artifactKey: Guid(6b750765a9e73934383c8285cef51320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprites/Scavengers_SpriteSheet.png using Guid(6b750765a9e73934383c8285cef51320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b41622a00177136948af6a8750d63795') in 0.223492 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.190708 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/Scripts/Unity.2D.Animation.Samples.Dependency.asmdef
+  artifactKey: Guid(c5bc1414ba3021e499d8e7853f35ad49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/Scripts/Unity.2D.Animation.Samples.Dependency.asmdef using Guid(c5bc1414ba3021e499d8e7853f35ad49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0103e61af8cc0f74041a0163a1554ef6') in 0.021002 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 111.021637 seconds.
+  path: Assets/Samples
+  artifactKey: Guid(b4482055ed8b392429405ea893077736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples using Guid(b4482055ed8b392429405ea893077736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f35714e579ed03b3f4715e3a8f72bb36') in 0.031946 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 214.803752 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap
+  artifactKey: Guid(4998bce8f9545404b8e76d78eaa7b2cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap using Guid(4998bce8f9545404b8e76d78eaa7b2cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45b2bde385dfba6173622a4776132bc2') in 0.025308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 61.770190 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprites 1
+  artifactKey: Guid(e81dba2c4622c214fa9c4064107a4852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprites 1 using Guid(e81dba2c4622c214fa9c4064107a4852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46632338d9dcd761a9e5f30104395f01') in 0.024593 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.641168 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprites/Rikr 1.png
+  artifactKey: Guid(5258ca81e82eef94db023567a8de5516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprites/Rikr 1.png using Guid(5258ca81e82eef94db023567a8de5516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef04b5537fd007deb0a22a34c90b0b77') in 0.090850 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.715437 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprite Library/Hero.asset
+  artifactKey: Guid(2d2bc5e463c3f6849aae270a09f9d87e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprite Library/Hero.asset using Guid(2d2bc5e463c3f6849aae270a09f9d87e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bfd9f7129f029db8a278fb342511f04') in 0.047509 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprite Library/Zombie1.asset
+  artifactKey: Guid(1f94db1d81a909a4aaa87e211f3aaf62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprite Library/Zombie1.asset using Guid(1f94db1d81a909a4aaa87e211f3aaf62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '124893ec62afbaac851e8fd335d9cabe') in 0.026301 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000541 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprite Library/Rikr Poison.asset
+  artifactKey: Guid(9be58c2b20b56a542b4583ade9026db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprite Library/Rikr Poison.asset using Guid(9be58c2b20b56a542b4583ade9026db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47fcb8efdfa3ede7e34cd6b1db363f41') in 0.012719 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000557 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprite Library/Rikr.asset
+  artifactKey: Guid(136060ac7d2978e4fbcf52e0699c99fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprite Library/Rikr.asset using Guid(136060ac7d2978e4fbcf52e0699c99fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '825b3d51e1a2012e86e5c7971df1dc19') in 0.014319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000608 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprite Library/Rikr Rage.asset
+  artifactKey: Guid(781d493586743394ca892e005906a27d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprite Library/Rikr Rage.asset using Guid(781d493586743394ca892e005906a27d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fbb85bb8c0aa4fe9763713ca6a5b34d') in 0.012388 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprite Library/Rikr Full.asset
+  artifactKey: Guid(351081bc314572a43abc35fc26b8aa55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprite Library/Rikr Full.asset using Guid(351081bc314572a43abc35fc26b8aa55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a7a0414e29ba07897b500df1ee6b0c5') in 0.031160 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000525 seconds.
+  path: Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprite Library/Zombie2.asset
+  artifactKey: Guid(5d60fef4f78250542ab0adcb039b0d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/2D Animation/5.2.7/Samples/5 SpriteSwap/Sprite Library/Zombie2.asset using Guid(5d60fef4f78250542ab0adcb039b0d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c42acfd9976db57ae539af33e44539ca') in 0.030257 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 460.633017 seconds.
+  path: Assets/Rikr 1.png
+  artifactKey: Guid(5258ca81e82eef94db023567a8de5516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rikr 1.png using Guid(5258ca81e82eef94db023567a8de5516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9935cf71b723dc59ef338303d95d4897') in 0.053755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 150.750899 seconds.
+  path: Assets/Rikr 1.png
+  artifactKey: Guid(5258ca81e82eef94db023567a8de5516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rikr 1.png using Guid(5258ca81e82eef94db023567a8de5516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44538f04fa3456049491b14b3106e872') in 0.079546 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
