@@ -1,0 +1,3 @@
+﻿  구조체배열.c
+C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-1\c언어\9장\구조체배열\구조체배열.c(39,10): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  구조체배열.vcxproj -> C:\Users\USER\Desktop\임희진 - 자료\대학\수업\2-1\c언어\9장\x64\Debug\구조체배열.exe
