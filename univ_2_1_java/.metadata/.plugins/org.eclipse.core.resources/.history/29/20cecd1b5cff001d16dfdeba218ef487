@@ -1,0 +1,70 @@
+/*class StaticSample{
+	public int n;
+	public static int m;
+	
+	public void g() {
+		m = 20;
+	}
+	
+	public void h() {
+		m = 30;
+	}
+	
+	public static void f() {
+		m = 5;
+	}
+}
+
+public class Ex_20230526 {
+
+	public static void main(String[] args) {
+		StaticSample.m = 10;
+		
+		StaticSample s1 = new StaticSample();
+		s1.n = 5;
+		System.out.println("s1.n : " + s1.n);
+		s1.f();
+		System.out.println("s1.m : " + s1.m);
+		StaticSample.f();
+		System.out.println("s1.m : " + s1.m);
+		s1.n = 5;
+		System.out.println("s1.n : " + s1.n);
+		s1.g();
+		System.out.println("s1.n : " + s1.n);
+		s1.m = 50;
+		System.out.println("s1.n : " + s1.n);
+		StaticSample s2 = new StaticSample();
+		s2.n = 8;
+		System.out.println("s1.n : " + s1.n);
+		s2.h();
+		System.out.println("s1.m : " + s1.m);
+		s2.f();
+		System.out.println("s1.m : " + s1.m);
+	}
+
+}*//*
+class Conver{
+	private static double rate;
+	
+	public static double Doll(double won) {
+		return won / rate;
+	}
+	
+	public static double KWR(double dollar) {
+		return dollar * rate;
+	}
+	
+	public static double Rate(double r) {
+		rate = r;
+	}
+}
+ 	
+public class Ex_20230526 {
+	public static void main(String[] args) {
+		double rate = 1200;
+		Conver.Rate(rate);
+		System.out.println("백만원은 $" + Conver.Doll(1000000) + "입니다.");
+		System.out.println("$100은 " + Conver.KWR(100) + "원 입니다.");
+	}
+}*/
+	

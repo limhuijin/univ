@@ -1,0 +1,81 @@
+/*class Point{
+	private int x, y;
+	public void set(int x, int y) {
+		this.x = x;
+		this.y = y;
+	}
+	
+	public void showPoint() {
+		System.out.println("(" + x + ", " + y + ")");
+	}
+}
+
+class ColorPoint extends Point{
+	private String color;
+	public void setColor(String color) {
+		this.color = color;
+	}
+	
+	public void showColorPoint() {
+		System.out.print(color);
+		showPoint();
+	}
+}
+
+public class Ex_20230531 {
+	public static void main(String[] args) {
+		Point p = new Point();
+		p.set(1, 2);
+		p.showPoint();
+		
+		ColorPoint cp = new ColorPoint();
+		cp.set(3, 4);
+		cp.setColor("red");
+		cp.showColorPoint();
+	}
+}*/
+
+class A{
+	private int a, b;
+	public void set(int a, int b) {
+		this.a = a;
+		this.b = b;
+	}
+	
+	public int Sum(int a, int b) {
+		return a + b;
+	}	
+	
+	public int Ave(int a, int b) {
+		return (a + b) / 2;
+	}
+}
+
+class B extends A{
+	private int x, y;
+	public void set(int x, int y) {
+		this.x = x;
+		this.y = y;
+	}
+	
+	public int Sum(int a, int b, int x, int y) {
+		return a + b + x + y;
+	}	
+	
+	public int Ave(int a, int b, int x, int y) {
+		return (a + b + x + y) / 4;
+	}
+}
+
+public class Ex_20230531 {
+	public static void main(String[] args) {
+		Point p = new Point();
+		p.set(1, 2);
+		p.showPoint();
+		
+		ColorPoint cp = new ColorPoint();
+		cp.set(3, 4);
+		cp.setColor("red");
+		cp.showColorPoint();
+	}
+}
